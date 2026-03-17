@@ -4,7 +4,6 @@ Sou um **Software Engineer** apaixonado por transformar regras de negócio compl
 
 🎯 **O que estou fazendo agora:**
 - Desenvolvendo, em equipe, um **Sistema ERP Web** para o setor da moda, utilizando o ecossistema **PHP e Laravel**.
-- Construindo um **SaaS de rastreamento de horas** (integração com Redmine, etc...). Atuo na concepção de ideias, no desenvolvimento da **Web API (Laravel)** e no **Frontend (React)**.
 - Construindo um **Blog** para os **Devs** no dia a dia. Atuo no desenvolvimento por completo do Site. A Techstack é **PHP/Laravel** e junto do seu ecossistema o **Livewire** e o **Blade**, **jQuery** e **JS nativo** para certas funções compostos do ecossistema, no versionamento **Git/GitHub**, a ambientização com **Docker** e o banco de dados **MySQL(formato Multi-tenant)**.
 
 ⚙️ **Experiência e Fundamentos:**
