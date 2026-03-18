@@ -1,23 +1,23 @@
-# 💫 About Me:
+#  About Me:
 
 Sou um **Software Engineer** apaixonado por transformar regras de negócio complexas em sistemas eficientes e automatizados.
 
-🎯 **O que estou fazendo agora:**
+ **O que estou fazendo agora:**
 - Desenvolvendo, em equipe, um **Sistema ERP Web** para o setor da moda, utilizando o ecossistema **PHP e Laravel**.
 - Construindo um **Blog** para os **Devs** no dia a dia. Atuo no desenvolvimento por completo do Site. A Techstack é **PHP/Laravel** e junto do seu ecossistema o **Livewire** e o **Blade**, **jQuery** e **JS nativo** para certas funções compostos do ecossistema, no versionamento **Git/GitHub**, a ambientização com **Docker** e o banco de dados **MySQL(formato Multi-tenant)**.
 
-⚙️ **Experiência e Fundamentos:**
+ **Experiência e Fundamentos:**
 - Experiência prévia com **migração e importação de dados** utilizando **C#, .NET e MySQL**.
 - Focado na resolução de problemas e otimização de código através do estudo contínuo de **DSA (Data Structures and Algorithms)**.
 
-🌱 **O que estou explorando:**
+ **O que estou explorando:**
 - Integração de **IAs** no fluxo de engenharia de software.
 - Aprofundamento no ecossistema JavaScript (**Node.js** e frameworks modernos).
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-balena-9502a2310/)
 
-# 💻 Tech Stack & Tools:
+#  Tech Stack & Tools:
 
 **Principais Tecnologias (Daily Use):**
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
