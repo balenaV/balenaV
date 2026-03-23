@@ -3,7 +3,7 @@
 Sou um **Software Engineer** apaixonado por transformar regras de negócio complexas em sistemas eficientes e automatizados.
 
  **O que estou fazendo agora:**
-- Desenvolvendo, em equipe, um **Sistema ERP Web** para o setor da moda, utilizando o ecossistema **PHP e Laravel**.
+- Desenvolvendo, em equipe, um **Sistema ERP Web** para o setor da moda, utilizando o ecossistema **PHP com Laravel, jQuery, MySql com Multi-tenant**, entre outras tech-stacks.
 - Construindo um **Blog** para os **Devs** no dia a dia. Atuo no desenvolvimento por completo do Site. A Techstack é **PHP/Laravel** e junto do seu ecossistema o **Livewire** e o **Blade**, **jQuery** e **JS nativo** para certas funções compostos do ecossistema, no versionamento **Git/GitHub**, a ambientização com **Docker** e o banco de dados **MySQL(formato Multi-tenant)**.
 
  **Experiência e Fundamentos:**
